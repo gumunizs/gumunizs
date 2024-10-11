@@ -1,11 +1,8 @@
 # Gustavo Muniz :ghost:
 
 ## 🚀 Sobre mim
-Com a formação adquirida na Generation e quase três anos de experiência como Analista de Configuração,
-aprimorei minhas habilidades na área de dados (SQLServer/SQLite/Postgres), expandindo também meu conhecimento em
-áreas como JSON, Integrações ETL, XML e principalmente, na capacidade de resolução de problemas com a Lógica da Programação. Colaborei em projetos de grandes empresas da América Latina, aprimorando minha proficiência em espanhol. Guiado pela metodologia ágil, minha atuação diária vai além da competência técnica pois adoto uma abordagem proativa na
-resolução de desafios e busco constantemente oportunidades para aplicar minha criatividade, raciocínio lógico e liderança, contribuindo para o sucesso dos projetos e o crescimento da
-equipe. Entusiasmado em prosseguir na área de tecnologia, estou aberto a novos desafios que possam ampliar meu conjunto de habilidades, consolidando-me como um profissional versátil e resiliente.
+Tecnólogo em Gestão Empresarial pela FATEC, formação adquirida na Generation e agora na área da TI depois de 2 anos e meio de experiência como Analista de Configuração, tenho aprimorado minhas habilidades em SQLServer, Power BI e Excel para progresso na área de dados e nas plataformas de low-code para crescimento profissional. Nessa área participei do projeto de migração de SQLServer para Postgres e tinha contato diário através de análises e manutenções de querys SQLite e SQLServer, enquanto colaborava em projetos com clientes da América Latina, aprimorando minha proficiência em espanhol. Tenho familiaridade com a Metodologia SCRUM e busco constantemente oportunidades para aplicar minha criatividade, raciocínio lógico e comunicação contribuindo para o sucesso dos projetos e o crescimento da equipe.
+Passando por diversos tipos de experiencia na área de atendimento até aqui, nunca tive problema em “botar a mão na massa” e ajudar, não só minha equipe como outras, para contribuir positivamente com o sucesso do objetivo traçado. Me destaco pela comunicação e pela proficiência na maioria das tarefas em que, mesmo que eu não saiba fazer, corro atrás para contribuir, isso sempre me ajudou a ter a confiança e boa relação com todos á minha volta.
 
 ## 🛠 Habilidades
 ![Vscode](https://img.shields.io/badge/Vscode-3670A0?style=for-the-badge&logo=visual-studio-code&logoColor=ffdd54)
